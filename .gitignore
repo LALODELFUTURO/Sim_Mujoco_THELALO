@@ -11,3 +11,6 @@ venv/
 # Salidas de simulación
 *.mp4
 render*.png
+
+# Calibración específica del brazo (generada por tareas/calibrar.py)
+tareas/calibracion.json
